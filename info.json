@@ -1,0 +1,9 @@
+{
+  "name": "Just_Flow_Control",
+  "version": "1.0.0",
+  "factorio_version": "0.18",
+  "title": "Just Flow Control",
+  "author": "Quezler",
+  "dependencies": ["base", "Flow Control"],
+  "description": "Just the valves, not the pipes."
+}
